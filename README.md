@@ -1,3 +1,10 @@
+# weather-react-new 
+
+<img width="1426" alt="Ekran Resmi 2023-05-31 19 30 21" src="https://github.com/erknakbs/wheather-react/assets/105823500/77dbebe6-f23f-4eb7-ad69-ac689a224b7f">
+
+
+----------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# weather-react-new
+
